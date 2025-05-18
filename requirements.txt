@@ -9,7 +9,7 @@ charset-normalizer==3.4.2
 click==8.2.0
 colorama==0.4.6
 flatbuffers==25.2.10
-gast==0.6.0
+gast<=0.4.0
 gitdb==4.0.12
 GitPython==3.1.44
 google-pasta==0.2.0
@@ -59,7 +59,7 @@ termcolor==3.1.0
 threadpoolctl==3.6.0
 toml==0.10.2
 tornado==6.5
-typing_extensions==4.13.2
+typing_extensions<4.6.0
 tzdata==2025.2
 urllib3==2.4.0
 watchdog==6.0.0
